@@ -5,7 +5,7 @@ It is inspired by the paper [Enhancing Architectural Recovery Using Concerns](ht
 
 We propose a workflow to extract topics from python files with LDA and label them with ChatGPT.
 
-![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-orange.svg?style=for-the-badge&logo=googlecolab&logoColor=white&link=https://colab.research.google.com/drive/1ym5YT7sahV5yuEFy7xS3fg_OmqsOgw2Y?usp=sharing)
+[![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-orange.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1ym5YT7sahV5yuEFy7xS3fg_OmqsOgw2Y?usp=sharing)
 
 ## 📖 Concepts & Technologies
 ![Architecture Recovery](https://img.shields.io/badge/Architecture%20Recovery-orange.svg?style=for-the-badge)
